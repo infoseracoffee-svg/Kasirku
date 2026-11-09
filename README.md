@@ -1,2 +1,0 @@
-# Kasirku
-Pos kasir
